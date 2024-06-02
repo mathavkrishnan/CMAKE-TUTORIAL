@@ -4,9 +4,9 @@
    However we will be going through how we build it step by step,
 
 <h6>Create directory along with main.c file</h6>
--->test2
-  -->main.c
-  -->CMakeLists.txt [create this file]
+-->test2 <br>
+  -->main.c<br>
+  -->CMakeLists.txt [create this file]<br>
 
 Next we gonna iterate lines,
 

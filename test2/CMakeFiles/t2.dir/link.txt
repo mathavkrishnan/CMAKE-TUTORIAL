@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/t2.dir/src/t2.c.o CMakeFiles/t2.dir/src/t3.c.o -o ../bin/t2  librandlib.a -lzmq 

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/t3.dir/src/tt2.c.o CMakeFiles/t3.dir/src/tt3.c.o -o ../bin/t3  libmylib2.a -lzmq 

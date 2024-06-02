@@ -1,0 +1,2 @@
+/usr/bin/ar qc librandlib.a CMakeFiles/randlib.dir/lib/t4.c.o
+/usr/bin/ranlib librandlib.a

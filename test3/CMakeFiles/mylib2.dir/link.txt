@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmylib2.a CMakeFiles/mylib2.dir/lib/tt4.c.o
+/usr/bin/ranlib libmylib2.a

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/t2.dir/src/t2.c.o CMakeFiles/t2.dir/src/t3.c.o -o t2  libmylib.a -lzmq 
